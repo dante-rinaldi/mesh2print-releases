@@ -1,0 +1,1 @@
+# Mesh2Print Releases\n\nRelease assets for [Mesh2Print](https://mesh2print.com) — standalone 3D mesh repair and print preparation app.\n\nDownload the latest version at **[mesh2print.com](https://mesh2print.com)**.
